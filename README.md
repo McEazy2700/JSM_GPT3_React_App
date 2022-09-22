@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with guidiance from [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery).
 
-## Available Scripts
+## Quick Start
+
+Git clone
 
 In the project directory, you can run:
 
